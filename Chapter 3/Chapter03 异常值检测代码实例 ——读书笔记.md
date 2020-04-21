@@ -61,7 +61,7 @@ min      22.000000 # 最小值
 max    9106.440000 # 最大值
 ```
 
-<img src="/Users/hawzz/Documents/pd_dand_commit/Chap3_1.png" alt="Chap3_1" style="zoom:50%;" />
+<img src="https://github.com/HawZZ/py_dand_commit/blob/master/Chapter%203/Chap3_1.png" alt="Chap3_1" style="zoom:50%;" />
 
 通过
 
