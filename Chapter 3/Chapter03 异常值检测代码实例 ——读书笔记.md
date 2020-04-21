@@ -158,7 +158,7 @@ plt.show()
 
 运行结果
 
-<img src="/Users/hawzz/Documents/pd_dand_commit/Chap3_3.png" alt="Chap3_3" style="zoom:36%;" />
+<img src="https://github.com/HawZZ/py_dand_commit/blob/master/Chapter%203/Chap3_3.png" alt="Chap3_3" style="zoom:36%;" />
 
 由上图可知，菜品A1~A7总盈利额占该月盈利额的85.0033%。根据帕累托法则，应该增加对菜品A1 ~ A7的成本投入，减少对菜品 A8~A10的投入以获得更高的盈利额。
 
@@ -280,7 +280,7 @@ print(data[u'百合酱蒸凤爪'].corr(data[u'翡翠蒸香茜饺']))
       plt.show()
       ```
 
-      <img src="/Users/hawzz/Documents/pd_dand_commit/折线图实例.png" alt="折线图实例" style="zoom:36%;" />
+      <img src="https://github.com/HawZZ/py_dand_commit/blob/master/Chapter%203/折线图实例.png" alt="折线图实例" style="zoom:36%;" />
 
       ```python
       plt.plot(x,y,S)
@@ -310,7 +310,7 @@ print(data[u'百合酱蒸凤爪'].corr(data[u'翡翠蒸香茜饺']))
       plt.show()
       ```
 
-      <img src="/Users/hawzz/Documents/pd_dand_commit/pie_sample.png" alt="pie_sample" style="zoom:36%;" />
+      <img src="https://github.com/HawZZ/py_dand_commit/blob/master/Chapter%203/pie_sample.png" alt="pie_sample" style="zoom:36%;" />
 
       直方图作图实例
 
@@ -322,7 +322,7 @@ print(data[u'百合酱蒸凤爪'].corr(data[u'翡翠蒸香茜饺']))
       plt.show()
       ```
 
-      <img src="/Users/hawzz/Documents/pd_dand_commit/直方图实例.png" alt="直方图实例" style="zoom:36%;" />
+      <img src="https://github.com/HawZZ/py_dand_commit/blob/master/Chapter%203/直方图实例.png" alt="直方图实例" style="zoom:36%;" />
 
       箱型图实例
 
@@ -336,7 +336,7 @@ print(data[u'百合酱蒸凤爪'].corr(data[u'翡翠蒸香茜饺']))
       plt.show()
       ```
 
-      <img src="/Users/hawzz/Documents/pd_dand_commit/箱型图实例.png" alt="箱型图实例" style="zoom:36%;" />
+      <img src="https://github.com/HawZZ/py_dand_commit/blob/master/Chapter%203/箱型图实例.png" alt="箱型图实例" style="zoom:36%;" />
 
       轴对数图（plot(logx = True)/plot(logy = True))
 
@@ -354,9 +354,9 @@ print(data[u'百合酱蒸凤爪'].corr(data[u'翡翠蒸香茜饺']))
       plt.show()
       ```
 
-      <img src="/Users/hawzz/Documents/pd_dand_commit/原始数据图.png" alt="原始数据图" style="zoom:36%;" />
+      <img src="https://github.com/HawZZ/py_dand_commit/blob/master/Chapter%203/原始数据图.png" alt="原始数据图" style="zoom:36%;" />
 
-      <img src="/Users/hawzz/Documents/pd_dand_commit/对数数据图.png" alt="对数数据图" style="zoom:36%;" />
+      <img src="https://github.com/HawZZ/py_dand_commit/blob/master/Chapter%203/对数数据图.png" alt="对数数据图" style="zoom:36%;" />
 
       误差条形图实例
 
@@ -373,5 +373,5 @@ print(data[u'百合酱蒸凤爪'].corr(data[u'翡翠蒸香茜饺']))
       plt.show()
       ```
 
-      <img src="/Users/hawzz/Documents/pd_dand_commit/误差条形图.png" alt="误差条形图" style="zoom:36%;" />
+      <img src="https://github.com/HawZZ/py_dand_commit/blob/master/Chapter%203/误差条形图.png" alt="误差条形图" style="zoom:36%;" />
 
